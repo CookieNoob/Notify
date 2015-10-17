@@ -1,5 +1,5 @@
-name = "Notify v3.7"
-uid = "5d1c89e8-3c1e-472a-8ebc-a0d0484969b5"
+name = "Notify v3.8"
+uid = "5048d937-4872-4e86-9f09-dd1806a0629c"
 version = 3
 copyright = ""
 description = "Notify allies about all ACU enhancements. Allows enqueueing enhancements on ACU and SCU."
