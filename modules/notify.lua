@@ -283,7 +283,8 @@ function NotifyStartEnhancement(unit, enhancement)
 		MovementSpeedIncrease = "Locomotor",
 		OrbitalBombardment = "Orbital Bombardment",
 		PowerArmor = "Power Armor",
-		RapidRepair = "Rapid Repair",		
+		RapidRepair = "Rapid Repair",
+		Capacitor = "Capacitor",
 	}
 
 	LOG(repr(enhancement.ID))
