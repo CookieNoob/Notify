@@ -2,7 +2,7 @@
 function buildActionBuilding(name, modifier)
   --LOG("BAB " .. name)
   local options = Prefs.GetFromCurrentProfile('options')
-  local allValues = buildingTab[name]
+  local allValues = unitkeygroups[name]
   --LOG(repr(allValues))
   local effectiveValues = {}
   
